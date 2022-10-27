@@ -1,0 +1,6 @@
+C:\Users\hilal\source\repos\Ödev2.6UygulamaSoruları\Ödev2.6UygulamaSoruları\bin\Debug\Ödev2.6UygulamaSoruları.exe.config
+C:\Users\hilal\source\repos\Ödev2.6UygulamaSoruları\Ödev2.6UygulamaSoruları\bin\Debug\Ödev2.6UygulamaSoruları.exe
+C:\Users\hilal\source\repos\Ödev2.6UygulamaSoruları\Ödev2.6UygulamaSoruları\bin\Debug\Ödev2.6UygulamaSoruları.pdb
+C:\Users\hilal\source\repos\Ödev2.6UygulamaSoruları\Ödev2.6UygulamaSoruları\obj\Debug\Ödev2.6UygulamaSoruları.csproj.CoreCompileInputs.cache
+C:\Users\hilal\source\repos\Ödev2.6UygulamaSoruları\Ödev2.6UygulamaSoruları\obj\Debug\Ödev2.6UygulamaSoruları.exe
+C:\Users\hilal\source\repos\Ödev2.6UygulamaSoruları\Ödev2.6UygulamaSoruları\obj\Debug\Ödev2.6UygulamaSoruları.pdb
